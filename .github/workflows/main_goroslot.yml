@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'goroslot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EFAA9566C0424A4EAC9C5F7E44A4BBEB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2ECDA40BEE7643AB8C20DE6993D7EA89 }}
           package: .
